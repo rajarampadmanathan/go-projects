@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../eclipse-workspace/go"
+		},
+		{
+			"path": "../go-cards"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../go-maps"
+		},
+		{
+			"path": "../go-interfaces"
+		},
+		{
+			"path": "../go-http"
+		},
+		{
+			"path": "../go-printarea"
+		},
+		{
+			"path": "../go-file-to-terminal"
+		},
+		{
+			"path": "../go-status-checker"
+		}
+	],
+	"settings": {}
+}
